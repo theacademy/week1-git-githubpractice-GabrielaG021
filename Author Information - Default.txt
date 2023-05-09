@@ -1,0 +1,6 @@
+/**
+ *@author Gabriela Gutierrez
+ * email: gabystephane@hotmail.com
+ * date: May 9th, 2023
+ * Purpose: My first Hello World program in an IDE
+ */
